@@ -2,3 +2,4 @@ content:
   - Formatted output
   - Primitive and reference types
   - Comments
+  - Reading user input with Scanner

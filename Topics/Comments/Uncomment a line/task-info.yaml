@@ -4,6 +4,11 @@ files:
     visible: true
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/2501#comment
-status: Unchecked
+status: Failed
+feedback:
+  message: |
+    Check your solution and give it another shot.
+    Wrong answer
+  time: "Wed, 14 Oct 2026 13:51:04 UTC"
 record: -1
 submission_language: java25
