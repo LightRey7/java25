@@ -1,3 +1,5 @@
 content:
   - Reading user input with Scanner
   - Summing apples and oranges from user input
+  - Printing strings in the same order
+  - Greet user with their name and age
