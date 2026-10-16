@@ -7,6 +7,8 @@ class Main {
             int n = scanner.nextInt();
 
             int tensDigit = (n / 10) % 10;
+            // Step 1: Remove the last digit (units digit) using integer division
+            // Step 2: Extract the new last digit using the modulo operator
 
             System.out.println(tensDigit);
 
