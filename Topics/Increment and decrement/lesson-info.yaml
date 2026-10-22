@@ -1,3 +1,5 @@
 content:
   - Increment and decrement
   - "Increment, decrement, then double n"
+  - "Increase, decrease and increase an integer"
+  - Decrement all
