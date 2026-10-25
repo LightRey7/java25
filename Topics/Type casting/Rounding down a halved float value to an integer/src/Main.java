@@ -20,4 +20,5 @@ public class Main {
 
 		// Close the Scanner
 		scanner.close();
-	}}
+	}
+}
