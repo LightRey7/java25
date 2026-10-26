@@ -9,3 +9,4 @@ content:
   - Floating-point types and operations
   - Type casting
   - Boolean type and operations. True and false
+  - Comparing values. Relational operators
