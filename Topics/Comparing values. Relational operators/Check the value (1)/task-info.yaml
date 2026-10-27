@@ -1,0 +1,13 @@
+type: code
+custom_name: Check the value
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2271#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 27 Oct 2026 00:06:46 UTC"
+record: -1
+submission_language: java25
