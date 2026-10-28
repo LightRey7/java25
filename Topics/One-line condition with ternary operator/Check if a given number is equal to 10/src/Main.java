@@ -10,7 +10,12 @@ public class Main {
         int num = scanner.nextInt();
 
         // Put your code with ternary operator here
-        String result = (num < 0) ? "Negative" : "Positive";
-        System.out.println(result);
+        if (num == 10) {
+            System.out.println("Equal");
+        } else {
+            System.out.println("Not Equal");
+        }
+
+        scanner.close();
     }
 }
