@@ -1,0 +1,25 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/44170#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 3. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    10
+
+    Correct output:
+    Equal
+
+
+    Your code output:
+    Positive
+  time: "Wed, 28 Oct 2026 01:23:07 UTC"
+record: -1
+submission_language: java25
