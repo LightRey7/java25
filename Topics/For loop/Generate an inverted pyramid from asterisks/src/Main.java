@@ -11,5 +11,15 @@ public class Main {
         // write another loop inside the first one that starts at the current row number and ends at 1
         // print an asterisk ('*') without going to the next line (use 'System.out.print' instead of 'println')
         // After each row, print a newline character ('\n')
+        for (int i = 1; i <= n; i++) {
+            int asterisksNeeded = n - i + 1;
+
+            for (int j = 0; j < asterisksNeeded; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+
+        }
+        scanner.close();
     }
 }
