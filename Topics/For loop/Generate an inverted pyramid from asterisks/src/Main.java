@@ -11,7 +11,9 @@ public class Main {
         // write another loop inside the first one that starts at the current row number and ends at 1
         // print an asterisk ('*') without going to the next line (use 'System.out.print' instead of 'println')
         // After each row, print a newline character ('\n')
+        // control the rows (i from 1 to n)
         for (int i = 1; i <= n; i++) {
+            // Calculates how may asterisks to paint on the current row
             int asterisksNeeded = n - i + 1;
 
             for (int j = 0; j < asterisksNeeded; j++) {
@@ -20,6 +22,7 @@ public class Main {
             System.out.println();
 
         }
+        // Move down to the next row by printing a newline character '/n'
         scanner.close();
     }
 }
