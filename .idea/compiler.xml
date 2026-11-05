@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="25">
+      <module name="Java_Problems1.Topics-Arithmetic_operations-Arithmetic_operations.main" target="23" />
+      <module name="Java_Problems1.Topics-Arithmetic_operations-Calculating_square,_cube_and_fourth_power_of_a_number.main" target="23" />
+      <module name="Java_Problems1.Topics-Arithmetic_operations-Sum,_multiplication,_and_division_of_two_integers.main" target="23" />
+      <module name="Java_Problems1.Topics-Boolean_type_and_operations__True_and_false-Boolean_type_and_operations__True_and_false.main" target="23" />
+      <module name="Java_Problems1.Topics-Boolean_type_and_operations__True_and_false-Is_it_a_Beach_Day__Check_the_Skies.main" target="23" />
+      <module name="Java_Problems1.Topics-Comments-Comments.main" target="23" />
+      <module name="Java_Problems1.Topics-Comments-Incorrect_comments.main" target="23" />
+      <module name="Java_Problems1.Topics-Comments-Javadoc_comment.main" target="23" />
+      <module name="Java_Problems1.Topics-Comments-Printing_only_the_longest_line.main" target="23" />
+      <module name="Java_Problems1.Topics-Comments-The_countdown.main" target="23" />
+      <module name="Java_Problems1.Topics-Comments-Three_numbers.main" target="23" />
+      <module name="Java_Problems1.Topics-Comments-Uncomment_a_line.main" target="23" />
+      <module name="Java_Problems1.Topics-Comparing_values__Relational_operators-Check_the_value.main" target="23" />
+      <module name="Java_Problems1.Topics-Comparing_values__Relational_operators-Check_the_value__1_.main" target="23" />
+      <module name="Java_Problems1.Topics-Comparing_values__Relational_operators-Comparing_two_integers__greater,_less_or_equal.main" target="23" />
+      <module name="Java_Problems1.Topics-Comparing_values__Relational_operators-Comparing_two_integers_with_basic_relational_operators.main" target="23" />
+      <module name="Java_Problems1.Topics-Comparing_values__Relational_operators-Comparing_values__Relational_operators.main" target="23" />
+      <module name="Java_Problems1.Topics-Comparing_values__Relational_operators-Groundhogs_at_a_party.main" target="23" />
+      <module name="Java_Problems1.Topics-Conditional_statement-Check_a_number_is_positive.main" target="23" />
+      <module name="Java_Problems1.Topics-Conditional_statement-Conditional_statement.main" target="23" />
+      <module name="Java_Problems1.Topics-Conditional_statement-Determine_if_a_number_is_positive,_negative_or_zero.main" target="23" />
+      <module name="Java_Problems1.Topics-Conditional_statement-Determining_range_of_an_integer__low,_mid_or_high.main" target="23" />
+      <module name="Java_Problems1.Topics-Conditional_statement-Healthy_sleep.main" target="23" />
+      <module name="Java_Problems1.Topics-Conditional_statement-Leap_year.main" target="23" />
+      <module name="Java_Problems1.Topics-Conditional_statement-The_army_of_units.main" target="23" />
+      <module name="Java_Problems1.Topics-Floating-point_types_and_operations-Area_of_a_circle.main" target="23" />
+      <module name="Java_Problems1.Topics-Floating-point_types_and_operations-Difference_between_two_doubles.main" target="23" />
+      <module name="Java_Problems1.Topics-Floating-point_types_and_operations-Distance.main" target="23" />
+      <module name="Java_Problems1.Topics-Floating-point_types_and_operations-Exponential_expression.main" target="23" />
+      <module name="Java_Problems1.Topics-Floating-point_types_and_operations-Floating-point_types_and_operations.main" target="23" />
+      <module name="Java_Problems1.Topics-Floating-point_types_and_operations-Liquid_pressure.main" target="23" />
+      <module name="Java_Problems1.Topics-For_loop-Arithmetic_average.main" target="23" />
+      <module name="Java_Problems1.Topics-For_loop-For_loop.main" target="23" />
+      <module name="Java_Problems1.Topics-For_loop-Generate_an_inverted_pyramid_from_asterisks.main" target="23" />
+      <module name="Java_Problems1.Topics-For_loop-Numbers_divisible_by_six.main" target="23" />
+      <module name="Java_Problems1.Topics-For_loop-Summoning_the_special_numbers.main" target="23" />
+      <module name="Java_Problems1.Topics-For_loop-The_product_of_numbers_from_a_to_b.main" target="23" />
+      <module name="Java_Problems1.Topics-For_loop-The_sum_of_integers_from_a_to_b.main" target="23" />
+      <module name="Java_Problems1.Topics-Formatted_output-Creating_a_personalized_greeting_based_on_name_and_height.main" target="23" />
+      <module name="Java_Problems1.Topics-Formatted_output-Formatted_output.main" target="23" />
+      <module name="Java_Problems1.Topics-Formatted_output-Job_simulation.main" target="23" />
+      <module name="Java_Problems1.Topics-Formatted_output-Simple_combination.main" target="23" />
+      <module name="Java_Problems1.Topics-Formatted_output-The_battle_for_Mathematics.main" target="23" />
+      <module name="Java_Problems1.Topics-Increment_and_decrement-Decrement_all.main" target="23" />
+      <module name="Java_Problems1.Topics-Increment_and_decrement-Increase,_decrease_and_increase_an_integer.main" target="23" />
+      <module name="Java_Problems1.Topics-Increment_and_decrement-Increment,_decrement,_then_double_n.main" target="23" />
+      <module name="Java_Problems1.Topics-Increment_and_decrement-Increment_and_decrement.main" target="23" />
+      <module name="Java_Problems1.Topics-Integer_types_and_operations-Arithmetic_expression.main" target="23" />
+      <module name="Java_Problems1.Topics-Integer_types_and_operations-Computing_the_remainder_and_its_triple.main" target="23" />
+      <module name="Java_Problems1.Topics-Integer_types_and_operations-Converting_minutes_to_hours_and_minutes_format.main" target="23" />
+      <module name="Java_Problems1.Topics-Integer_types_and_operations-Integer_types_and_operations.main" target="23" />
+      <module name="Java_Problems1.Topics-Integer_types_and_operations-Reading_integer_numbers.main" target="23" />
+      <module name="Java_Problems1.Topics-Integer_types_and_operations-Reversing.main" target="23" />
+      <module name="Java_Problems1.Topics-Integer_types_and_operations-Reversing_input_numbers.main" target="23" />
+      <module name="Java_Problems1.Topics-Integer_types_and_operations-Tens_digit.main" target="23" />
+      <module name="Java_Problems1.Topics-One-line_condition_with_ternary_operator-Categorize_integer_as_positive,_negative,_or_zero.main" target="23" />
+      <module name="Java_Problems1.Topics-One-line_condition_with_ternary_operator-Check_if_a_given_number_is_equal_to_10.main" target="23" />
+      <module name="Java_Problems1.Topics-One-line_condition_with_ternary_operator-Determining_if_an_integer_is_odd_or_even.main" target="23" />
+      <module name="Java_Problems1.Topics-One-line_condition_with_ternary_operator-One-line_condition_with_ternary_operator.main" target="23" />
+      <module name="Java_Problems1.Topics-Primitive_and_reference_types-Creating_a_primitive.main" target="23" />
+      <module name="Java_Problems1.Topics-Primitive_and_reference_types-Creating_a_reference_type.main" target="23" />
+      <module name="Java_Problems1.Topics-Primitive_and_reference_types-Primitive_and_reference_types.main" target="23" />
+      <module name="Java_Problems1.Topics-Reading_user_input_with_Scanner-Greet_user_with_their_name_and_age.main" target="23" />
+      <module name="Java_Problems1.Topics-Reading_user_input_with_Scanner-Printing_strings_in_the_same_order.main" target="23" />
+      <module name="Java_Problems1.Topics-Reading_user_input_with_Scanner-Reading_user_input_with_Scanner.main" target="23" />
+      <module name="Java_Problems1.Topics-Reading_user_input_with_Scanner-Summing_apples_and_oranges_from_user_input.main" target="23" />
+      <module name="Java_Problems1.Topics-Type_casting-Converting_and_printing_double_values_as_integers.main" target="23" />
+      <module name="Java_Problems1.Topics-Type_casting-Rounding_down_a_halved_float_value_to_an_integer.main" target="23" />
+      <module name="Java_Problems1.Topics-Type_casting-Type_casting.main" target="23" />
+      <module name="Java_Problems1.util.main" target="23" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

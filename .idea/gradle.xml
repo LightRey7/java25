@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Arithmetic operations" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Calculating square, cube and fourth power of a number" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations/Sum, multiplication, and division of two integers" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Boolean type and operations. True and false" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false/Is it a Beach Day  Check the Skies" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Incorrect comments" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Javadoc comment" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Printing only the longest line" />
+            <option value="$PROJECT_DIR$/Topics/Comments/The countdown" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Three numbers" />
+            <option value="$PROJECT_DIR$/Topics/Comments/Uncomment a line" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Check the value" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Check the value (1)" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Comparing two integers  greater, less or equal" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Comparing two integers with basic relational operators" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Comparing values. Relational operators" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators/Groundhogs at a party" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Check a number is positive" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Conditional statement" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Determine if a number is positive, negative or zero" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Determining range of an integer  low, mid or high" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Healthy sleep" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/Leap year" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement/The army of units" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Area of a circle" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Difference between two doubles" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Distance" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Exponential expression" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Floating-point types and operations" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations/Liquid pressure" />
+            <option value="$PROJECT_DIR$/Topics/For loop/Arithmetic average" />
+            <option value="$PROJECT_DIR$/Topics/For loop/For loop" />
+            <option value="$PROJECT_DIR$/Topics/For loop/Generate an inverted pyramid from asterisks" />
+            <option value="$PROJECT_DIR$/Topics/For loop/Numbers divisible by six" />
+            <option value="$PROJECT_DIR$/Topics/For loop/Summoning the special numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop/The product of numbers from a to b" />
+            <option value="$PROJECT_DIR$/Topics/For loop/The sum of integers from a to b" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Creating a personalized greeting based on name and height" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Formatted output" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Job simulation" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/Simple combination" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output/The battle for Mathematics" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Decrement all" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Increase, decrease and increase an integer" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Increment and decrement" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement/Increment, decrement, then double n" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Computing the remainder and its triple" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Converting minutes to hours and minutes format" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Integer types and operations" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Reading integer numbers" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Reversing" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Reversing input numbers" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Tens digit" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Categorize integer as positive, negative, or zero" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Check if a given number is equal to 10" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/Determining if an integer is odd or even" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator/One-line condition with ternary operator" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a primitive" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a reference type" />
+            <option value="$PROJECT_DIR$/Topics/Primitive and reference types/Primitive and reference types" />
+            <option value="$PROJECT_DIR$/Topics/Reading user input with Scanner/Greet user with their name and age" />
+            <option value="$PROJECT_DIR$/Topics/Reading user input with Scanner/Printing strings in the same order" />
+            <option value="$PROJECT_DIR$/Topics/Reading user input with Scanner/Reading user input with Scanner" />
+            <option value="$PROJECT_DIR$/Topics/Reading user input with Scanner/Summing apples and oranges from user input" />
+            <option value="$PROJECT_DIR$/Topics/Type casting/Converting and printing double values as integers" />
+            <option value="$PROJECT_DIR$/Topics/Type casting/Rounding down a halved float value to an integer" />
+            <option value="$PROJECT_DIR$/Topics/Type casting/Type casting" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
